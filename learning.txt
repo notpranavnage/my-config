@@ -1,0 +1,12 @@
+SOLID priciples python
+OOPO Python(abstraction,inheritence, polymorphism, Encapsulation)
+
+Class diagram, sequennce diagram
+
+git
+docker
+aws(cloud)
+linux commands for devops and cloud/server stuff
+tmux
+vim
+
